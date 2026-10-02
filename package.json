@@ -1,0 +1,8 @@
+{
+  "name": "econautics-website",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "echo 'Build skipped. Serving dist folder.'",
+    "install": "echo 'Install skipped.'"
+  }
+}
